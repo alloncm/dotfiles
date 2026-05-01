@@ -1,0 +1,3 @@
+[env]
+# Fix for the wrong cursor loaded opening X11 apps from alacritty terminal
+XCURSOR_PATH = "/usr/share/icons"
