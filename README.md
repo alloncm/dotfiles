@@ -5,7 +5,6 @@
 ```bash
 # Install tools and deps
 sudo apt install tmux
-sudo apt install xclip
 sudo snap install alacritty --classic
 sudo apt install fzf
 
